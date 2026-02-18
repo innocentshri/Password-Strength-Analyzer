@@ -17,7 +17,7 @@ The tool helps users create stronger passwords and understand password security.
   - Numbers
   - Special characters
 - Security improvement suggestions
-- Coloe-coded output
+- Color-coded output
 
 ---
 
